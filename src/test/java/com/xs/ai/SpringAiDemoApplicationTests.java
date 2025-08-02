@@ -1,4 +1,4 @@
-package com.jzx.ai;
+package com.xs.ai;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
